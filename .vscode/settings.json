@@ -1,0 +1,10 @@
+{
+    "git.autofetch": true,
+    "git.autofetchPeriod": 60,
+    "git.pruneOnFetch": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "editor.mouseWheelZoom": true
+}
